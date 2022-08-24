@@ -8,6 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Current Stack
+:cowboy_hat_face:
 <!--
 **zaber2164/zaber2164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
